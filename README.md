@@ -1,5 +1,5 @@
 # LeetCode-23-Merge-k-sorted-linked-lists
-合并K个排序链表(刷爆难题-4)
+合并K个排序链表
 
 题目链接：https://leetcode-cn.com/problems/merge-k-sorted-lists/
 
